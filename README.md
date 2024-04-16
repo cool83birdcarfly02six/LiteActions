@@ -31,7 +31,4 @@ elseif game.PlaceId == 9759729519 then --- All of Us Are Dead
 elseif game.PlaceId == 12996550309 then --- RunStar Simulator
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-elseif game.PlaceId == 4836735146 then --- Street Shootout (Alpha)
-    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
-
 end
