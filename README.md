@@ -34,4 +34,8 @@ elseif game.PlaceId == 12996550309 then --- RunStar Simulator
 elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
+elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+
 end
