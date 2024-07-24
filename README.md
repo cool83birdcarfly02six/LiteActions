@@ -10,7 +10,7 @@ elseif game.PlaceId == 7952502098 then --- Impossible Glass Bridge Obby! (Squid 
 elseif game.PlaceId == 13667319624 then --- Knockout Simulator
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-elseif game.PlaceId == 14184086618 then --- Obby But You’re On a Bike
+elseif game.PlaceId == 1962086868 or 3582763398 then --- Tower Of Hell
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
 elseif game.PlaceId == 14184086618 then --- Power Slap Simulator
