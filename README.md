@@ -1,4 +1,4 @@
-if game.PlaceId == 1962086868 or 3582763398 then --- Tower Of Hell
+if game.PlaceId == 1962086868 or game.PlaceId == 3582763398 then --- Tower Of Hell
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
 elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
