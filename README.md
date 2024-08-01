@@ -7,7 +7,7 @@ elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
 elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-elseif game.PlaceId == 5732301513 then --- TRENCHES
+elseif game.PlaceId == 10772052398 then --- Defender's Depot 2 Tower Defense
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
     
