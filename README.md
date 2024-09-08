@@ -10,5 +10,8 @@ elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
 elseif game.PlaceId == 10772052398 then --- Defender's Depot 2 Tower Defense
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
+elseif game.PlaceId == 16993432698 then --- Impossible Squid Game! Glass Bridge 2
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
     
 end
